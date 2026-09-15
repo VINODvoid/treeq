@@ -1,11 +1,14 @@
 # treeq
 
+![tree](tree.jpg)
+
 `treeq` is a small educational experiment for learning how neural networks can learn structured relationships.
 
 Current Implementation follows a key paper:
 
-
 - Back-propagating Errors [Rumelhart, Hinton & Williams .1986](https://gwern.net/doc/ai/nn/1986-rumelhart-2.pdf)
+
+
 It uses two small, isomorphic family trees — one English and one Italian — and trains a model to answer questions such as:
 
 ```text
