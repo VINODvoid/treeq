@@ -1,10 +1,10 @@
 [project]
 name = "treeq"
 version = "0.1.0"
-description = "Add your description here"
+description = "Learning family-tree relationships with a small neural network"
 readme = "README.md"
 authors = [
-    { name = "VINODvoid", email = "kalki.the.dev@gmail.com" }
+    { name = "VINODvoid"}
 ]
 requires-python = ">=3.11"
 dependencies = []
@@ -15,3 +15,8 @@ treeq = "treeq:main"
 [build-system]
 requires = ["uv_build>=0.12.0,<0.13.0"]
 build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
