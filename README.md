@@ -37,4 +37,4 @@ The goal is to see whether the network can compress the identities and structure
 This is intentionally a small, hackable project for educational purposes.
 
 
-> [!success]  This project really gives a proper understanding of relationships.
+> [!info]  This project really gives a proper understanding of relationships.
