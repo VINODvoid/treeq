@@ -1,8 +1,8 @@
 # treeq
 
-<center>
+<p align="center">
 <img src="./tree.jpg" alt="tree" width=300/>
-</center>
+</p>
 
 `treeq` is a small educational experiment for learning how neural networks can learn structured relationships.
 
