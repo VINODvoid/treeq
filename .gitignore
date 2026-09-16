@@ -123,7 +123,7 @@ venv.bak/
 # mkdocs documentation
 /site
 
-# mypy
+#mypy
 .mypy_cache/
 .dmypy.json
 dmypy.json
@@ -137,4 +137,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# End of https://mrkandreev.name/snippets/gitignore-generator/#Python
+
+uv.lock
+
