@@ -7,7 +7,9 @@ authors = [
     { name = "VINODvoid"}
 ]
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "numpy>=2.4.6",
+]
 
 [project.scripts]
 treeq = "treeq:main"
